@@ -1,0 +1,54 @@
+{
+  "roads": [
+    {
+      "id": 1,
+      "title": "Okota Road",
+      "details": "The road is in a very bad condition for the past 3 months. road users drive one way once they get there. this is exactly what led to the fracas between A LASTMA officer and a driver which led to the death of 3 people ",
+      "category": "Bad road",
+      "caption": "images/bridge.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Third mainland bridge",
+      "details": "The part going to the island from iyana oworo is an eye saw",
+      "category": "Bad road",
+      "caption": "images/bridge.jpeg"
+    },
+    {
+      "title": "Okoko Bridge",
+      "details": "jcgchgvmnvlbkjbn,m.nkm/.,n;,bnkcfgxdfgsxhfvxcnhgvmbnn,.lbmvbkhcgjvbhcvcxv",
+      "category": "under-construction",
+      "id": 12
+    },
+    {
+      "title": "Ikeja Along",
+      "details": "Some heavy construction works are going on there. the access road and the bridge linking the main Abeokuta express way to computer village",
+      "category": "under-construction",
+      "id": 13
+    },
+    {
+      "title": "Alh Moshobalaje Street",
+      "details": "This street is in Ago Palace way. the road is very bad and getting worse",
+      "category": "bad-road",
+      "id": 14
+    },
+    {
+      "title": "Ibadan Road",
+      "details": "It is very bad and leading a lot of accidents",
+      "category": "under-construction",
+      "id": 15
+    },
+    {
+      "title": "Airport road",
+      "details": "There is need to fix this road as quickly as possible",
+      "category": "bad-road",
+      "id": 16
+    },
+    {
+      "title": "Apapa Warf Road",
+      "details": "the road has been abandoned for a long time due to trailers parking on it. therefore, the other road has been experiencing overusage",
+      "category": "bad-road",
+      "id": 17
+    }
+  ]
+}
